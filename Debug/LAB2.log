@@ -1,0 +1,7 @@
+﻿  task8_func.cpp
+  task8_main.cpp
+  task9_func.cpp
+  task9_main.cpp
+C:\Users\Виктория\source\repos\LAB2\task9_main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  LAB2.vcxproj -> C:\Users\Виктория\source\repos\LAB2\Debug\LAB2.exe
